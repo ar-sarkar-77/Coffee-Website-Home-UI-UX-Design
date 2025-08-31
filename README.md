@@ -11,4 +11,4 @@ A modern and minimal coffee shop landing page design. This project is a practice
 - Responsive layout design  
 
 ## 📸 Preview  
-![Coffee House Landing Page](https://www.figma.com/design/JSkZE7P7204gjt5ovdko4L/Coffee-Web?node-id=2-2&t=auUKYkDrn2cRmyhQ-1)  
+**Design**:[Coffee House Landing Page](https://www.figma.com/design/JSkZE7P7204gjt5ovdko4L/Coffee-Web?node-id=2-2&t=auUKYkDrn2cRmyhQ-1)  
